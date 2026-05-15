@@ -2,7 +2,6 @@
 
 Turn any short text story into a 4-panel comic strip using fine-tuned Stable Diffusion + Adaptive Consistent Self-Attention + BubbleCleaner.
 
-> **DreamGenGang** — Sofiia Manko, Viktoriia Bulatova, Sofiia Popp
 
 ---
 
